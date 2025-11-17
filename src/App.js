@@ -53,8 +53,8 @@ function App() {
     <div className="App">
       <header className="header">
         <div className="logo">
-          <span className="logo-icon">▶</span>
-          <span className="logo-text">TOPCLIP</span>
+                      <span className="logo-icon">🎬</span
+          <span className="logo-text">VIRALCLIP</span>
         </div>
       </header>
 
